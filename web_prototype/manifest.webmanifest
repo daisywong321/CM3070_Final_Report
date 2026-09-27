@@ -1,0 +1,13 @@
+{
+  "name": "PlayGarden: Learning Games",
+  "short_name": "PlayGarden",
+  "description": "Ten gentle learning games for children aged 3 to 5.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff9f0",
+  "theme_color": "#36c98e",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
